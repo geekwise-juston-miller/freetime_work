@@ -1,0 +1,60 @@
+html, body{
+    margin: 0 auto;
+    padding: 0;
+    width: 100%;
+    height: auto;
+    font-size: 62.5%;
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0 auto;
+    padding: 0;
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+header{
+    margin: 0 auto;
+    padding: 0;
+    width: 100%;
+    height: 6rem;
+    display: block;
+    background-color: aqua;
+}
+
+span{
+    margin: 0 auto;
+    padding: 0;
+    width: calc(100%/3);
+    height: auto;
+    display: block;
+    text-align: center;
+    float:left;
+}
+
+#pin{
+    margin: 0 auto;
+    padding: 0;
+    font-size: 5rem;
+    display: block;
+    background-color: red;
+}
+
+#hand{
+    margin: 0 auto;
+    padding: 0;
+    font-size: 5rem;
+    display: block;
+    background-color: yellow;
+    
+}
+
+#rocket{
+    margin: 0 auto;
+    padding: 0;
+    font-size: 5rem;
+    display: block;
+    background-color: purple;
+}
